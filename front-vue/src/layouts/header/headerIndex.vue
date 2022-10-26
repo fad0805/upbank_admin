@@ -30,7 +30,7 @@
             <div class="one-third column">
             <div class="logo">
             <a href="admin.ad">
-                <img src="@/resources/images/logo.png" alt="Upbank - 당신의 지갑을 UpBank" style="height:50px" /> 관리자 PAGE
+                <img src="@/resources/images/logo.png" alt="Upbank - 당신의 지갑을 UpBank" style="height:50px" /> 관리자 VUE
             </a>
             </div>
             </div><!-- End Logo -->
